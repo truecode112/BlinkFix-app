@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Damion.ttf",
+      "sha1": "51009673d10020384337ffb249e2a78ed3fed444"
+    },
+    {
+      "path": "src/assets/fonts/Handlee-Regular.ttf",
+      "sha1": "7bfbcc74e78e521eac4dba8f33817675f9b1340c"
+    }
+  ]
+}

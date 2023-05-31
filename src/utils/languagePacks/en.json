@@ -1,0 +1,37 @@
+{
+  "MainMenu": {
+    "Orders": "Orders",
+    "Recipes": "Recipes",
+    "ComingSoon": "ComingSoon",
+    "Profile": "Profile"
+  },
+  "allergens": [
+    {"id": 0, "name": "wheat gluten"},
+    {"id": 1, "name": "rye gluten"},
+    {"id": 2, "name": "barley gluten"},
+    {"id": 3, "name": "oat gluten"},
+    {"id": 4, "name": "spelt gluten"},
+    {"id": 5, "name": "kamut gluten"},
+    {"id": 6, "name": "shellfish"},
+    {"id": 7, "name": "eggs"},
+    {"id": 8, "name": "fish"},
+    {"id": 9, "name": "peanuts"},
+    {"id": 10, "name": "soy"},
+    {"id": 11, "name": "milk"},
+    {"id": 23, "name": "almonds"},
+    {"id": 24, "name": "hazelnuts"},
+    {"id": 25, "name": "walnuts"},
+    {"id": 26, "name": "cashews"},
+    {"id": 27, "name": "pecans"},
+    {"id": 28, "name": "Brazil nuts"},
+    {"id": 29, "name": "pistachios"},
+    {"id": 30, "name": "macadamia nuts"},
+    {"id": 31, "name": "Queensland nuts"},
+    {"id": 32, "name": "celery"},
+    {"id": 33, "name": "mustard"},
+    {"id": 34, "name": "sesame"},
+    {"id": 35, "name": "sulfur dioxide"},
+    {"id": 36, "name": "lupin"},
+    {"id": 37, "name": "lactose"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "MainMenu": {
+    "Orders": "Zamówienia",
+    "Recipes": "Przepisy",
+    "ComingSoon": "Wkrótce dostępne",
+    "Profile": "Profil"
+  },
+  "allergens": [
+    {"id": 0, "name": "gluten pszenny"},
+    {"id": 1, "name": "gluten żytni"},
+    {"id": 2, "name": "gluten jęczmienny"},
+    {"id": 3, "name": "gluten owsiany"},
+    {"id": 4, "name": "gluten orkiszowy"},
+    {"id": 5, "name": "gluten kamutowy"},
+    {"id": 6, "name": "skorupiaki"},
+    {"id": 7, "name": "jaja"},
+    {"id": 8, "name": "ryba"},
+    {"id": 9, "name": "orzeszki ziemne"},
+    {"id": 10, "name": "soja"},
+    {"id": 11, "name": "mleko"},
+    {"id": 23, "name": "migdały"},
+    {"id": 24, "name": "orzechy laskowe"},
+    {"id": 25, "name": "orzechy włoskie"},
+    {"id": 26, "name": "orzechy nerkowca"},
+    {"id": 27, "name": "orzechy pekan"},
+    {"id": 28, "name": "Orzechy brazylijskie"},
+    {"id": 29, "name": "pistacje"},
+    {"id": 30, "name": "orzechy makadamia"},
+    {"id": 31, "name": "orzechy Queensland"},
+    {"id": 32, "name": "seler"},
+    {"id": 33, "name": "musztarda"},
+    {"id": 34, "name": "sezam"},
+    {"id": 35, "name": "dwutlenek siarki"},
+    {"id": 36, "name": "łubin"},
+    {"id": 37, "name": "laktoza"}
+  ]
+}

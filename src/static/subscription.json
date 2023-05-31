@@ -1,0 +1,96 @@
+[
+  {
+    "id": 0,
+    "name": "End User",
+    "icon": "https://static.networkmanager.pl/images/static/standard.png",
+    "pricing": "free",
+    "options": [
+      "Can buy Food",
+      "Can view recipes",
+      "Can add and make money from his/her recipies",
+      "Can edit ingredient in the meal. (if Meal is editable )",
+      "Can share a cost of a meal",
+      "If You are Waiter, Chef or Driver, you can get",
+      "Tips directly to your Blinkfix wallet"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Student",
+    "icon": "https://static.networkmanager.pl/images/static/student.png",
+    "pricing": "free",
+    "options": [
+      "Can buy Food with 10% dicount",
+      "Can view recipes",
+      "Can add and make money from his/her recipies",
+      "Can edit ingredient in the meal. (if Meal is editable )",
+      "Can share a cost of a meal",
+      "If You are Waiter, Chef or Driver, you can get",
+      "Tips directly to your Blinkfix wallet"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Local Cook",
+    "icon": "https://static.networkmanager.pl/images/static/localcook.png",
+    "pricing": "2.5 Pounds(6 % from Transaction ) ",
+    "options": [
+      "Standard User +",
+      "Can add” Recipes as Shop",
+      "Can sell products",
+      "Can Advertise his Products",
+      "Can have up to 1 Chef",
+      "Can have up to 3 Waiters",
+      "Can have up to 3 Drivers"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Restaurant",
+    "icon": "https://static.networkmanager.pl/images/static/restaurants.png",
+    "pricing": "6 Pounds(6 % from Transaction ) ",
+    "options": [
+      "Standard User +",
+      "Can add” Recipes as Reastaurant",
+      "Add  up to 3 different Dish  Menus ",
+      "Can sell products",
+      "Can Advertise his Products",
+      "Can have up to 10 Chefs",
+      "Can have up to 6 Waiters",
+      "Can have up to 30 Drivers"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Food trucks",
+    "icon": "https://static.networkmanager.pl/images/static/foodtruck.png",
+    "pricing": "4 Pounds(6 % from Transaction )",
+    "options": [
+      "Standard User +",
+      "Can add” Recipes as Food Truck",
+      "Add  up to 3 different Dish  Menus ",
+      "Can sell products",
+      "Can Advertise his Products",
+      "Can have up to 3 Chefs",
+      "Can have up to 6 Waiters",
+      "Can have up to 30 Drivers"
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Shop",
+    "icon": "https://static.networkmanager.pl/images/static/store.png",
+    "pricing": "5 Pounds(6 % from Transaction )",
+    "options": [
+      "Standard User +",
+      "Can add” Recipes as Shop",
+      "Can sell products.",
+      "Can Advertise his Products",
+      "Can have up to 30 Drivers"
+    ]
+  }
+]

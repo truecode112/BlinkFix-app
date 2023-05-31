@@ -1,0 +1,56 @@
+[
+  {
+    "establishment": {
+      "__v": 0,
+      "_id": "63e464b05c1a57fb46fc37ac",
+      "address": [],
+      "assortment": [],
+      "counter": [],
+      "cuisine": [],
+      "delivery": [],
+      "image": [],
+      "isHalal": false,
+      "isKosher": false,
+      "isVegan": false,
+      "location": [],
+      "menu": [],
+      "name": "uk rest 1 ",
+      "openHours": [],
+      "owner": [],
+      "reservations": [],
+      "tables": [],
+      "type": "restaurant",
+      "vatNumber": "PL9999999999",
+      "workspace": "63f1282345edd84ed5b1e51f"
+    },
+    "orderItems": [[], [], []],
+    "orderWhere": "63e464b05c1a57fb46fc37ac"
+  },
+  {
+    "establishment": {
+      "__v": 0,
+      "_id": "63fdcf19b944b89362ad2c13",
+      "address": [],
+      "assortment": [],
+      "counter": [],
+      "cuisine": [],
+      "delivery": [],
+      "image": [],
+      "isHalal": false,
+      "isKosher": true,
+      "isVegan": false,
+      "location": [],
+      "menu": [],
+      "name": "restaurant 2",
+      "openHours": [],
+      "owner": [],
+      "reservations": [],
+      "tables": [],
+      "type": "restaurant",
+      "vatNumber": "PL9999999999",
+      "workspace": "641342c4ba72fe4623676f1c"
+    },
+    "orderItems": [[], []],
+    "orderWhere": "63fdcf19b944b89362ad2c13"
+  }
+]

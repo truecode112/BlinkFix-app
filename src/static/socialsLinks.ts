@@ -1,0 +1,25 @@
+const links = {
+  instagram: 'https://www.instagram.com/blinkfixme/',
+  facebook: 'https://www.facebook.com/blinkfix.me',
+  linkedin: 'https://www.linkedin.com/company/81459505',
+  twitter: 'https://twitter.com/BlinkfixMe',
+  youtube: 'https://www.youtube.com/channel/UCq8ohSe8RtTqO2s6yPJqDIQ',
+  snapchat: 'https://www.snapchat.com/add/blinkfix.me',
+  tiktok: 'https://www.tiktok.com/@blinkfix.me',
+  appinstagram: 'instagram://user?username=blinkfixme',
+  appfacebook: 'fb://profile/100083342372320',
+  applinkedin: 'linkedin://company/81459505',
+  apptwitter: 'twitter://user?screen_name=BlinkfixMe',
+  appyoutube: 'youtube://channel/UCq8ohSe8RtTqO2s6yPJqDIQ',
+  appsnapchat: 'snapchat://add/blinkfixme',
+  apptiktok: 'https://www.tiktok.com/@blinkfix.me',
+  idInstagram: '389801252',
+  idFacebook: '284882215',
+  idLinkedIn: '288429040',
+  idTwitter: '333903271',
+  idYouTube: '544007664',
+  idSnapchat: '447188370',
+  idTikTok: '835599320',
+};
+
+export {links as Sociallinks};

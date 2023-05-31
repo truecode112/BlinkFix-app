@@ -1,0 +1,52 @@
+[
+  {
+    "id": -1,
+    "name": "All",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/bakeris.png"
+  },
+  {
+    "id": 0,
+    "name": "Bakeris",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/bakeris.png"
+  },
+  {
+    "id": 1,
+    "name": "Starters",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/starters.png"
+  },
+  {
+    "id": 2,
+    "name": "Sides",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/sides.png"
+  },
+  {
+    "id": 3,
+    "name": "Soups",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/soups.png"
+  },
+  {
+    "id": 4,
+    "name": "Mains",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/mains.png"
+  },
+  {
+    "id": 5,
+    "name": "Desserts",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/desserts.png"
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/beverages.png"
+  },
+  {
+    "id": 7,
+    "name": "Alc Beverages",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/alcbeverages.png"
+  },
+  {
+    "id": 8,
+    "name": "Products",
+    "icon": "https://static.networkmanager.pl/images/recipesMenu/products.png"
+  }
+]
